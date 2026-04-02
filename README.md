@@ -1,4 +1,4 @@
-# Predictive Modeling of Salary for Lightcast Job Listing Data
+# Predictive Modeling Salary for Lightcast Job Listing Data
 
 This project builds an end-to-end machine learning pipeline using **PySpark** to predict job salaries from job posting data. It demonstrates data cleaning, feature engineering, and model comparison at scale using distributed computing.
 
